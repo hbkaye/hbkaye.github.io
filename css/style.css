@@ -185,8 +185,8 @@ footer font {
  background:#333 no-repeat 3px 50%;
  box-shadow:0 0 8px rgba(0,0,0,0.5);
  font-family:'Helvetica Neue Light',HelveticaNeue-Light,'Helvetica Neue',Helvetica,Arial,sans-serif;
- font-size:14px;
- height:35px;
+ font-size:18px;
+ height:50px;
 }
 #header.new {
  background-image:none;
@@ -206,9 +206,9 @@ footer font {
  color:rgb(196, 194, 194);
  text-decoration:none;
  display:block;
- padding:0 8px 0 8px;
+ padding:0 20px 0 8px;
  border:0;
- line-height:25px;
+ line-height:35px;
  transition:color 0.2s linear;
  -moz-transition:color 0.2s linear;
  -webkit-transition:color 0.2s linear;
