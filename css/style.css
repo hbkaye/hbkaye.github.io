@@ -70,13 +70,12 @@ body {
    #header ul li a:hover {
     color:#fff;
     text-decoration:underline;
-    background-color: #6e6e6c;
+    background-color: gray;
    }
    #header a:active {
     color:#fff;
     background-color: gray;
    }
-   
    
 
 
